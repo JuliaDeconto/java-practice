@@ -1,4 +1,4 @@
-# Exercise 02 - Circle Area
+# Exercise 03 - Circle Area
 
 ## Objective
 Read the value of the radius of a circle and display

@@ -1,4 +1,4 @@
-# Exercise 01 - Sum of Integers
+# Exercise 02 - Sum of Integers
 
 ## Objective
 Read two integer values from the user and display the sum of 
