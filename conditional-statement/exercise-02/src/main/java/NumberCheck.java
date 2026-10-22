@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-public class numberCheck {
-    void main() {
+public class NumberCheck {
+    public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
 

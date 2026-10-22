@@ -2,7 +2,7 @@
 
 ## Objective
 Read the value of the radius of a circle and display
-the area of the circle with four decimal places.
+the Area of the circle with four decimal places.
 
 ## Concepts Practiced
 - Input with `Scanner`

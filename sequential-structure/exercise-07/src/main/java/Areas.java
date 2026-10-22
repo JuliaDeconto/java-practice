@@ -1,8 +1,8 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class areas {
-    void main() {
+public class Areas {
+    public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
         Locale.setDefault(Locale.US);

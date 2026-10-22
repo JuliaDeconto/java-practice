@@ -1,7 +1,7 @@
 # Exercise 02 - Sum of Integers
 
 ## Objective
-Read two integer values from the user and display the sum of 
+Read two integer values from the user and display the Sum of 
 those numbers on the screen with an explanatory message.
 
 ## Concepts Practiced

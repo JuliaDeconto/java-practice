@@ -1,8 +1,8 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class totalPayments {
-    void main() {
+public class TotalPayments {
+    public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
         Locale.setDefault(Locale.US);

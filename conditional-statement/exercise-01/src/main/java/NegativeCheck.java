@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-public class negativeCheck {
-    void main() {
+public class NegativeCheck {
+    public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
 

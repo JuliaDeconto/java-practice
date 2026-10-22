@@ -2,7 +2,7 @@
 
 ## Objective
 Read the employee number, the number of hours worked, and the hourly wage, 
-then calculate and display the employee's salary with two decimal places.
+then calculate and display the employee's Salary with two decimal places.
 
 ## Concepts Practiced
 - Input with `Scanner`

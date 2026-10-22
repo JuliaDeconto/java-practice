@@ -1,7 +1,7 @@
 # Exercise 05 - Difference of Products
 
 ## Objective
-Read four integer values (A, B, C, and D) and calculate the difference 
+Read four integer values (A, B, C, and D) and calculate the Difference 
 between the product of A and B and the product of C and D, 
 displaying the result with the explanatory message.
 

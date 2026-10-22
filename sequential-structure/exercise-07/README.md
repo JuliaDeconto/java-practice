@@ -1,12 +1,12 @@
 # Exercise 07 - Geometric Areas
 
 ## Objective
-Read three double values (A, B, and C) and calculate the following areas:
-- The area of a right triangle with base A and height C.
-- The area of a circle with radius C (π = 3.14159).
-- The area of a trapezoid with bases A and B and height C.
-- The area of a square with side B.
-- The area of a rectangle with sides A and B.
+Read three double values (A, B, and C) and calculate the following Areas:
+- The Area of a right triangle with base A and height C.
+- The Area of a circle with radius C (π = 3.14159).
+- The Area of a trapezoid with bases A and B and height C.
+- The Area of a square with side B.
+- The Area of a rectangle with sides A and B.
 
 ## Concepts Practiced
 - Input with `Scanner`
