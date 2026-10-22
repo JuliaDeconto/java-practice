@@ -22,5 +22,7 @@ public class GameDuration {
         }
 
         System.out.println("THE GAME LASTED " + duration + " HOUR(S)");
+
+        sc.close();
     }
 }
